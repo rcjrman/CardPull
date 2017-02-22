@@ -1,0 +1,27 @@
+name: ebay_api_config
+
+# Trading API Sandbox - https://www.x.com/developers/ebay/products/trading-api
+api.sandbox.ebay.com:
+    compatability: 719
+    appid: RafaelCo-hellowor-PRD-c45f64428-43fbf33e
+    certid: PRD-45f644283fe8-4a91-4d9f-adf8-ddee
+    devid: 622ee030-b2c2-4d37-bdc8-e74edf8b17f0
+    token: ENTER_YOUR_TOKEN_HERE
+
+# Trading API - https://www.x.com/developers/ebay/products/trading-api
+api.ebay.com:
+    compatability: 719
+    appid: RafaelCo-hellowor-PRD-c45f64428-43fbf33e
+    certid: PRD-45f644283fe8-4a91-4d9f-adf8-ddee
+    devid: 622ee030-b2c2-4d37-bdc8-e74edf8b17f0
+    token: ENTER_YOUR_TOKEN_HERE
+
+# Finding API - https://www.x.com/developers/ebay/products/finding-api
+svcs.ebay.com:
+    appid: RafaelCo-hellowor-PRD-c45f64428-43fbf33e
+    version: 1.0.0
+
+# Shopping API - https://www.x.com/developers/ebay/products/shopping-api
+open.api.ebay.com:
+    appid: RafaelCo-hellowor-PRD-c45f64428-43fbf33e
+    version: 671
